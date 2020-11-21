@@ -29,6 +29,6 @@ Working for a company that values Culture, Psychological Saftey, Continuous Lear
 
 # My History
 - Started with C Programming and screen scraping GDS profile content into flat files and loading them into a SQL Server Database.  Additionally supported a Client Server Visual Basic Application and traveled across the globe installing this system that communicated to Apollo, Sabre, and Worldspan.
-- Began OO programming on a large distributed system written in [Forte] (https://en.wikipedia.org/wiki/Forte_4GL), focusing on our Supplier Management domain leveraging partners integrations for GDS and 3rd party integrations.
+- Began OO programming on a large distributed system written in [Forte](https://en.wikipedia.org/wiki/Forte_4GL), focusing on our Supplier Management domain leveraging partners integrations for GDS and 3rd party integrations.
 - Continued OO programming in the heart of a our SaaS Product that managed Travel Order logic for our Self-Booking Tool and Agen Desktop Tool platform called Symphonie.
 - Lead our Database and Configuration Management teams, along with Team Lead/Manager for multiple OO Domain Teams 
