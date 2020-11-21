@@ -11,15 +11,18 @@ I truly love teams and organization culture, thus my entire career has been with
 
 I am an experienced Product and Technology leader with a demonstrated history of being outcome driven.  I am a proven performance-driven leader, who has led and implemented transformative technology strategies across a Global Technology organization and I am extremely passionate about culture!
 
-# Continuous Learning 
+# Continuous Learning - Really focusing hard on personal hands on, as my team did a ton of it.
 - AWS CLI
 - AWS Associate Architect Certification
 - Terraform
 - Ansible
 - Python
-- Docker
+- Containers
+- Kubernetes
 - HTML
 - CSS
+- JSON
+- YAML
 - JavaScript
 - Multiple JS Frameworks
 - Bash
