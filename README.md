@@ -33,5 +33,10 @@ Working for a company that values Culture, Psychological Saftey, Continuous Lear
 - Continued OO programming in the heart of a our SaaS Product that managed Travel Order logic for our Self-Booking Tool and Agent Desktop Tool platform called Symphonie.
 - Lead our Database and Configuration Management teams, along with Team Lead/Manager for multiple OO Domain Teams for the next many years.
 - Although Iterative Development was part of my software engineering experience, it wasn't until a colleague introduced me to further Agile Concepts with [Agile Software Development with Scrum](https://www.amazon.com/Agile-Software-Development-Scrum/dp/0130676349).  This was a PIVOT in my software engineering career.
--Transformed a 45 member Domain Driven organized team with seperate QA, BA, and Architecture teams to individual Scrum Teams, this would cascade through the company from 2006 onward.
+- Transformed a 45 member Domain Driven organized team with seperate QA, BA, and Architecture teams to individual Scrum Teams, this would cascade through the company from 2006 onward.
+- Promoted to Director and continue to lead our Symphonie Platform and began another opportunity with our Military & Government business line.
+- Would lead a distributed team over the next 10 years, transforming again using Agile Concepts and complete at huge government contracting opportunties.
+- Continuous Delivery was a passion of mine through career and working with shared service groups to help improve and support delivery needs from our engineering teams.
+- Continous Delivery drive lead to DEVOPS intrigue and thus another journey to be walked, beginning in 2015.
+
 
