@@ -57,7 +57,7 @@ Something must of caught your eye, thank you for continuing to read my personal 
 
 Drop me a note at [me](mailto:jay@hopia.us)
 
-#Comments?
+# Comments?
 Just add them here, happy to hear them.
 
 
