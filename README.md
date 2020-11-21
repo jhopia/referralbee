@@ -3,7 +3,7 @@
 Currently accepting engagements for employment.
 
 # About Me
-Recently due to COVID-19, my tenure in the Travel Industry has been impacted dramatically.   I have been at [CWT (primary subsidiary of Carlson in Minnetonka, MN)](www.mycwt.com) since my first gig out of college, just short of 24 years. 
+Recently due to COVID-19, my tenure in the Travel Industry has been impacted dramatically.   I have been at [CWT (primary subsidiary of Carlson in Minnetonka, MN)](https://www.mycwt.com) since my first gig out of college, just short of 24 years. 
 
 I find motivation and passion behind building high performing engineering teams, being involved in an engineering cultured company and open by default approach to communications.  I have experience in influencing cultures on teams I have worked on that have tenants of trust, default to open, customer focused, winning spirit, product mindset, and cost consciousness. 
 
