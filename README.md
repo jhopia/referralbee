@@ -27,6 +27,12 @@ I am an experienced Product and Technology leader with a demonstrated history of
 # What I Am Looking For
 Working for a company that values Culture, Psychological Saftey, Continuous Learning, and giving a high integrity resource an opportunity to show value through Outcomes and Objectives.  
 
+If you have opportunties in the following areas, hit me up, email is below.
+- Devops work
+- Technical Project Manager work
+- Digital Transformation Consultation work
+- Data Analysis
+
 # My History
 1996
 - Started with C Programming and screen scraping GDS profile content into flat files and loading them into a SQL Server Database.  Additionally supported a Client Server Visual Basic Application and traveled across the globe installing this system that communicated to Apollo, Sabre, and Worldspan.
