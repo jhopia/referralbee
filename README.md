@@ -23,3 +23,8 @@ I am an experienced Product and Technology leader with a demonstrated history of
 - JavaScript
 - Multiple JS Frameworks
 - Bash
+
+# What I Am Looking For
+Working for a company that values Culture, Psychological Saftey, Continuous Learning, and giving a high integrity resource an opportunity to show value through Outcomes and Objectives.  
+
+# My History
