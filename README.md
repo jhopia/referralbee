@@ -1,5 +1,10 @@
 # Referralbee
 
+## Scale the Power of Word-of-Mouth
+
+Referrals are your best channel for dynamic business growth – lowest CPA, highest LTV. Leverage the power of word-of-mouth referrals to scale your business and watch what happens.
+Friendbuy’s refer-a-friend programs offer unsurpassed ROI, expanding your reach and transforming customers into loyal and engaged brand advocates.
+
 ## Your Friends care.
 - 92% - Word of Mouth.  92% of people seek a rec from friends whenthey make a purchase
 - 9x More. Your friends are 9x more likely to make a purchase that you recommend. Save $ + Make $.  Use Chums to see which brands your friends us and get paid for making recommendations
@@ -32,3 +37,18 @@ Streamlined experience
 # Open Source Platforms:
 - https://www.getopensocial.com/features
 - https://github.com/elgg/elgg
+
+# Referral Open Source Repos
+https://github.com/marvec/referrals
+
+## Technology Stack Evaluation
+Experienced in full-stack development using the following technologies: Typescript, React, NestJS, MongoDB, AWS, CI, GraphQL, CloudFront, Docker
+JAM Stack ( Java, Markdown)
+
+## Use Cases
+- User creates an account
+- User Creates a Referral Program (Owner)
+- Create Referral Program
+- CRUD Referral Program
+- CRUD User Account
+- User can create a Group (Owner)
